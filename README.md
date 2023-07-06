@@ -2,7 +2,7 @@
 
 [![GitHub Action](https://github.com/casbin-lua/4daysorm-adapter/workflows/test/badge.svg?branch=master)](https://github.com/casbin-lua/4daysorm-adapter/actions)
 [![Coverage Status](https://coveralls.io/repos/github/casbin-lua/4daysorm-adapter/badge.svg?branch=master)](https://coveralls.io/github/casbin-lua/4daysorm-adapter?branch=master)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/casbin/lobby)
+[![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 casbin-orm-adapter is a [4DaysORM](https://github.com/itdxer/4DaysORM) based adapter for Casbin that supports policies from MySQL and SQLite3 databases.
 
