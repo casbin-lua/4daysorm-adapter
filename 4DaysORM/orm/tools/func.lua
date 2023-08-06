@@ -48,7 +48,7 @@ function _G.escapeValue(own_table, colname, colvalue)
 
       if (DB.type == "sqlite3" or DB.type == "mysql" or DB.type == "postgresql") then
 
-        -- See https://keplerproject.github.io/luasql/manual.html for a list of
+        -- See https://lunarmodules.github.io/luasql/manual.html for a list of
         -- database drivers that support this method
         colvalue = db.connect:escape(colvalue)
       elseif (DB.type == "oracle") then
